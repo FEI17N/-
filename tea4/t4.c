@@ -1,5 +1,6 @@
 //t4编译器的实现 c版本 目前尚且不能自举
 //从c4 x-c项目学习而来
+//https://lotabout.me/2015/write-a-C-interpreter-2/
 
 #include <stdio.h>
 #include <stdlib.h>
